@@ -15,4 +15,3 @@ This project provides a secure way to encrypt sensitive documents using a passwo
 pip install -r requirements.txt
 python vault.py
 ```
-
