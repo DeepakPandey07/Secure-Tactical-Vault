@@ -10,7 +10,6 @@ This project provides a secure way to encrypt sensitive documents using a passwo
 - *Integrity Protection:* Built with the cryptography backend for robust security.
 
 ## Installation
-
 ```bash
 pip install -r requirements.txt
 python vault.py
